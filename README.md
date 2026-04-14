@@ -1,57 +1,112 @@
-# OpenClaw方法论模板
+# OpenClaw Methodologies
 
-> 图书馆记忆法 + 消防队模式 - 通用框架模板
-
----
-
-## 仓库说明
-
-这是一个**通用的方法论模板仓库**，包含两个核心方法论：
-
-1. **图书馆记忆法** - 建立索引+按需加载+减少token消耗
-2. **消防队模式** - 任务拆解<5分钟+检查点驱动+可恢复
-
-**特点**：
-- ✅ 通用框架，适用于任何OpenClaw实例
-- ✅ 不包含具体项目配置
-- ✅ 女娲、盘古或其他agent都能使用
+> OpenClaw 方法论模板 - 供女娲和其他人学习使用
 
 ---
 
-## 文件列表
+## 📚 方法论文档
 
-| 文件 | 说明 |
-|------|------|
-| `LIBRARY-MEMORY-TEMPLATE.md` | 图书馆记忆法核心思想 |
-| `FIREFIGHTER-MODE-TEMPLATE.md` | 消防队模式核心思想 |
+### 1. 图书馆记忆法
+**文件**: `LIBRARY-MEMORY-TEMPLATE.md`
+
+核心思想：建立索引 → 按需加载 → 减少token消耗
+
+- 轻量索引文件（index.md）
+- 按需加载规则
+- 关键词映射
+
+### 2. 消防队模式
+**文件**: `FIREFIGHTER-MODE-TEMPLATE.md`
+
+核心思想：任务拆解为<5分钟子任务 → 检查点驱动 → 可恢复
+
+- 检查点文件（JSON格式）
+- 任务追踪文件（Markdown格式）
+- 支持中断恢复
+
+### 3. 任务执行闭环管理 ✨
+**文件**: `TASK-COMPLETION-WORKFLOW.md`
+
+核心思想：确认 → 固化 → 验证三步闭环
+
+整合图书馆记忆法 + 消防队模式
+
+**触发条件**：
+- 用户确认格式/规则/配置
+- 涉及定时任务（cron job）变更
+- 涉及自动化流程调整
+
+**执行步骤**：
+1. **确认**：明确变更内容，创建检查点
+2. **固化**：更新执行配置 + 记忆文档
+3. **验证**：立即测试一次，确认输出符合预期
+4. **归档**：合并检查点，更新任务追踪
+
+**关联文档**：
+- `DAILY-REPORT-FORMAT.md` - 日报9字段格式规范示例
 
 ---
 
-## 快速开始
+## 🚀 快速开始
 
-### 1. Clone仓库
+### 复制到你的工作区
 
 ```bash
 git clone https://github.com/Oooooldbai/openclaw-methodologies.git
+cd openclaw-methodologies
 ```
 
-### 2. 学习方法论
+### 定制方法论
 
-- 阅读 `LIBRARY-MEMORY-TEMPLATE.md` - 了解图书馆记忆法
-- 阅读 `FIREFIGHTER-MODE-TEMPLATE.md` - 了解消防队模式
-
-### 3. 定制并应用
-
-根据你的实际情况定制模板，并应用到你的Agent中。
+1. 复制模板文件到你的工作区
+2. 根据你的需求修改
+3. 按照模板执行
 
 ---
 
-## 相关仓库
+## 📝 使用示例
 
-| 仓库 | 说明 |
-|------|------|
-| [openclaw-skills-index](https://github.com/Oooooldbai/openclaw-skills-index) | 技能索引结构模板 |
+### 示例1：配置变更固化
+
+当确认一个配置变更时：
+
+```bash
+# 1. 确认阶段
+cat > checkpoints/confirmation/{task-id}-impact.json << 'EOF'
+{
+  "phase": "confirmation",
+  "content": "确认配置变更内容"
+}
+EOF
+
+# 2. 固化阶段
+# 更新执行配置（cron job / 脚本 / 环境变量）
+# 更新记忆文档（MEMORY.md / topics/*.md）
+
+# 3. 验证阶段
+# 立即测试一次
+cron run <job-id>
+
+# 4. 归档阶段
+# 合并检查点，更新任务追踪
+```
+
+### 示例2：日报格式标准化
+
+详细示例见 `DAILY-REPORT-FORMAT.md`
 
 ---
 
-*OpenClaw方法论模板 | 适用于任何OpenClaw实例*
+## 🤝 贡献
+
+欢迎提交PR改进方法论！
+
+---
+
+## 📄 许可证
+
+MIT License
+
+---
+
+*OpenClaw Methodologies | 最后更新: 2026-04-14*
