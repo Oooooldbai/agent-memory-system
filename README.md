@@ -1,6 +1,6 @@
 # OpenClaw Methodologies
 
-> OpenClaw 方法论模板 - 供女娲和其他人学习使用
+> OpenClaw 方法论模板 - 通用 Agent 工作流框架
 
 ---
 
