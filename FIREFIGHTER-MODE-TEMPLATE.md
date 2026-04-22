@@ -1,1 +1,280 @@
-IyDmtojpmLLpmJ/mqKHlvI8gLSDmoLjlv4PmgJ3mg7MKCj4g5Lu75Yqh5ouG6Kej5Li6PDXliIbpkp/lrZDku7vliqEg4oaSIOajgOafpeeCuempseWKqCDihpIg5Y+v5oGi5aSNCgotLS0KCiMjIOaguOW/g+aAneaDswoK5raI6Ziy6Zif5qih5byP55qE5qC45b+D5oCd5oOz5piv77yaKirlg4/mtojpmLLpmJ/kuIDmoLfmiafooYzlpI3mnYLku7vliqEqKuOAggoKIyMjIOexu+avlO+8mua2iOmYsumYnwoKLSAqKua2iOmYsumYn+S4jeS8mioq77ya5LiA5qyh5oCn5a6M5oiQ5omA5pyJ54Gt54Gr5bel5L2c77yI5Y+v6IO95aSx6LSl77yM6L+b5bqm5Lii5aSx77yJCi0gKirmtojpmLLpmJ/kvJoqKu+8muaLhuino+S7u+WKoSDihpIg6YCQ5Liq5a6M5oiQIOKGkiDmr4/kuKrku7vliqHlrozmiJDlhpnorrDlvZUg4oaSIOaUr+aMgeS4reaWreaBouWkjQoKIyMjIOexu+avlO+8mkFJ5Lu75Yqh5omn6KGMCgotICoq5LiN6KaBKirvvJrkuIDmrKHmgKflrozmiJDmiYDmnInku7vliqHvvIjlj6/og73lpLHotKXvvIzov5vluqbkuKLlpLHvvIkKLSAqKuimgSoq77ya5ouG6Kej5Li6PDXliIbpkp/lrZDku7vliqEg4oaSIOmAkOS4quWujOaIkCDihpIg5q+P5Liq5Lu75Yqh5YaZ5qOA5p+l54K5IOKGkiDmlK/mjIHkuK3mlq3mgaLlpI0KCi0tLQoKIyMg6Kej5Yaz55qE6Zeu6aKYCgojIyMg6Zeu6aKYMe+8muS7u+WKoeS4reaWreWQjuaXoOazleaBouWkjQotIOmVv+S7u+WKoeaJp+ihjOi/h+eoi+S4reaWrQotIOmHjeaWsOW8gOWni++8jOi/m+W6puS4ouWksQoKKirop6PlhrPmlrnmoYgqKu+8muavj+S4quWtkOS7u+WKoeWujOaIkOWGmeajgOafpeeCue+8jOS4reaWreWQjuWPr+aBouWkjQoKIyMjIOmXrumimDLvvJrkuI3nn6XpgZPmiafooYzov5vluqYKLSDmiafooYzkuK3kuI3nn6XpgZPliLDkuoblk6rkuIDmraUKLSDml6Dms5XlkJHnlKjmiLfmiqXlkYrov5vluqYKCioq6Kej5Yaz5pa55qGIKirvvJrmo4Dmn6XngrnorrDlvZXmr4/kuIDmraXnmoTnirbmgIHvvIzlj6/pmo/ml7bmn6Xor6Lov5vluqYKCiMjIyDpl67popgz77ya5aSx6LSl5ZCO5peg5rOV5a6a5L2N6Zeu6aKYCi0g5Lu75Yqh5aSx6LSl5ZCO5LiN55+l6YGT5Zyo5ZOq5LiA5q2l5aSx6LSlCi0g5peg5rOV5b+r6YCf5a6a5L2N6Zeu6aKYCgoqKuino+WGs+aWueahiCoq77ya5qOA5p+l54K56K6w5b2V5q+P5LiA5q2l55qE6L6T5Ye677yM5L6/5LqO5a6a5L2N6Zeu6aKYCgotLS0KCiMjIOaguOW/g+WOn+WImQoKIyMjIDEuIOS7u+WKoeaLhuinowotIOWkjeadguS7u+WKoeaLhuino+S4ujw15YiG6ZKf55qE5a2Q5Lu75YqhCi0g5q+P5Liq5a2Q5Lu75Yqh54us56uL5Y+v5omn6KGMCi0g5a2Q5Lu75Yqh5LmL6Ze05L6d6LWW5YWz57O75piO56GuCgojIyMgMi4g5qOA5p+l54K56amx5YqoCi0g5q+P5Liq5a2Q5Lu75Yqh5a6M5oiQ5ZCO5YaZ5qOA5p+l54K5Ci0g5qOA5p+l54K55YyF5ZCr5Lu75Yqh54q25oCB5ZKM6L6T5Ye6Ci0g5qOA5p+l54K56K6w5b2V5pe26Ze05oizCgojIyMgMy4g5Y+v5oGi5aSN5oCnCi0g5Lit5pat5ZCO5Y+v5LuO5qOA5p+l54K55oGi5aSNCi0g5LiN6ZyA6KaB6YeN5paw5byA5aeLCi0g5Y+q6ZyA5omn6KGM5pyq5a6M5oiQ55qE5a2Q5Lu75YqhCgojIyMgNC4g6L+b5bqm6YCP5piOCi0g5Y+v6ZqP5pe25p+l55yL5omn6KGM6L+b5bqmCi0g5Y+v6ZqP5pe25p+l55yL5qOA5p+l54K554q25oCBCi0g5Y+v5ZCR55So5oi35oql5ZGK6L+b5bqmCgotLS0KCiMjIOajgOafpeeCuee7k+aehAoKIyMjIOajgOafpeeCueaWh+S7tuagvOW8jwpgYGBqc29uCnsKICAidGFza19pZCI6ICLku7vliqHlkI3np7AiLAogICJiYXRjaF9udW1iZXIiOiDmibnmrKHlj7csCiAgImJhdGNoX25hbWUiOiAi5om55qyh5ZCN56ewIiwKICAic3RhdHVzIjogImNvbXBsZXRlZC9mYWlsZWQvcGVuZGluZyIsCiAgImV4ZWN1dGlvbl90aW1lIjogIuaJp+ihjOaXtumXtCIsCiAgImRhdGFfc291cmNlcyI6IFsi5pWw5o2u5p2l5rqQIl0sCiAgIm91dHB1dF9maWxlcyI6IFsi6L6T5Ye65paH5Lu2Il0sCiAgImNvbGxlY3RlZF9kYXRhIjogewogICAgIuWFt+S9k+mHh+mbhuaVsOaNriIKICB9LAogICJuZXh0X3Rhc2siOiAi5LiL5LiA5Liq5Lu75YqhSUQiLAogICJ0aW1lc3RhbXAiOiAi5pe26Ze05oizIgp9CmBgYAoKIyMjIOajgOafpeeCueWtl+auteivtOaYjgotICoqdGFza19pZCoqOiDku7vliqHllK/kuIDmoIfor4YKLSAqKmJhdGNoX251bWJlcioqOiDmibnmrKHlj7fvvIjlpoLmnpzmmK/mibnku7vliqHvvIkKLSAqKnN0YXR1cyoqOiDku7vliqHnirbmgIEKLSAqKmV4ZWN1dGlvbl90aW1lKio6IOaJp+ihjOaXtumXtAotICoqb3V0cHV0X2ZpbGVzKio6IOi+k+WHuuaWh+S7tuWIl+ihqAotICoqbmV4dF90YXNrKio6IOS4i+S4gOS4quS7u+WKoUlE77yI55So5LqO6ZO+5o6l5Lu75Yqh77yJCi0gKip0aW1lc3RhbXAqKjog5pe26Ze05oizCgotLS0KCiMjIFRva2Vu6IqC55yB5pWI5p6cCgp8IOWcuuaZryB8IOS8oOe7n+aWueW8jyB8IOa2iOmYsumYn+aooeW8jyB8IOiKguecgSB8CnwtLS0tLS18LS0tLS0tLS0tfC0tLS0tLS0tLS0tfC0tLS0tLXwKfCDku7vliqHkuK3mlq0gfCDph43mlrDlvIDlp4vvvIgxMDAl6YeN5YGa77yJIHwg5LuO5qOA5p+l54K55oGi5aSN77yI5Y+q5YGa5pyq5a6M5oiQ55qE77yJIHwgNzAlIHwKfCDov5vluqbmn6Xor6IgfCDkuI3nn6XpgZPov5vluqYgfCDpmo/ml7bmn6Xor6Lmo4Dmn6XngrkgfCAxMDAlIHwKfCDlpLHotKXlrprkvY0gfCDph43mlrDmiafooYwgfCDmn6XnnIvmo4Dmn6XngrnlrprkvY0gfCA4MCUgfAoKLS0tCgojIyDpgILnlKjlnLrmma8KCiMjIyDpgILlkIgKLSDmlbDmja7ph4fpm4bku7vliqEKLSDmibnph4/lpITnkIbku7vliqEKLSDlpI3mnYLlpJrmraXpqqTlt6XkvZzmtYEKLSDplb/ml7bpl7Tku7vliqHvvIg+NeWIhumSn++8iQoKIyMjIOS4jemAguWQiAotIOeugOWNleWNleasoeaTjeS9nAotIOefreaXtumXtOS7u+WKoe+8iDw15YiG6ZKf77yJCi0g5LiA5qyh5oCn6ISa5pysCgotLS0KCiMjIOS4juWbvuS5pummhuiusOW/huazleeahOWFs+ezuwoK5raI6Ziy6Zif5qih5byP5ZKM5Zu+5Lmm6aaG6K6w5b+G5rOV5piv5LqS6KGl55qE77yaCgotICoq5Zu+5Lmm6aaG6K6w5b+G5rOVKirvvJrop6PlhrMi5ZCv5Yqo6Zeu6aKYIgotICoq5raI6Ziy6Zif5qih5byPKirvvJrop6PlhrMi5omn6KGM6Zeu6aKYIgoKKirnu5PlkIjkvb/nlKgqKu+8mgotIOWbvuS5pummhuiusOW/huazleWtmOWCqOmhueebrumFjee9rgotIOa2iOmYsumYn+aooeW8j+WtmOWCqOS7u+WKoei/m+W6pgotIOS4pOiAhee7k+WQiO+8jOW9ouaIkOWujOaVtOeahOiusOW/hivku7vliqHnrqHnkIbkvZPns7sKCi0tLQoKKua2iOmYsumYn+aooeW8jyAtIOaguOW/g+aAneaDsyoK
+# FIREFIGHTER-MODE.md - 女娲消防队模式应用
+
+> 短生命周期子Agent + 异步调度 + 检查点驱动
+
+---
+
+## 核心思想
+
+**传统模式（问题）**：
+```
+派子Agent → 等待完成 → 收到结果 → 再派下一个
+（阻塞、慢、容易陷入循环）
+```
+
+**消防队模式（解决）**：
+```
+拆解任务 → 批量触发子Agent → 立即返回 → 异步检查检查点
+（并行、快、检查点即进度）
+```
+
+---
+
+## 角色分工
+
+| 角色 | 职能 | 行为模式 |
+|------|------|----------|
+| **女娲（监控中心）** | 任务拆解、看检查点进度、异常时重派 | 深度思考，不阻塞 |
+| **盘古（调度中心）** | 生成子任务、触发子Agent、立即汇报"已触发X个" | 快速分发，不等待 |
+| **子Agent（消防员）** | 单批次执行（<5分钟）、写文件、标检查点、立即退出 | 短时任务，立即死亡 |
+
+---
+
+## 执行规范
+
+### 1. 子Agent（消防员）5步规范
+
+```
+1. 读取任务参数（batch_id, range, output_file）
+2. 执行任务（采集/处理/分析）
+3. 写入结果文件
+4. 标记检查点（写入checkpoint.json）
+5. 立即退出（不汇报，不写总结）
+```
+
+**禁止行为**：
+- ❌ 不要等待其他子Agent
+- ❌ 不要汇报"我正在处理"
+- ❌ 不要轮询检查状态
+- ❌ 不要长时间运行（>5分钟）
+
+### 2. 女娲（监控中心）流程
+
+```
+1. 任务拆解为批次（每批100条/5分钟）
+2. 指派盘古触发子Agent
+3. 不等待，立即做其他事
+4. 每5-10分钟检查检查点文件
+5. 发现缺失批次 → 重新指派
+6. 全部完成 → 汇总报告
+```
+
+### 3. 盘古（调度中心）流程
+
+```
+1. 女娲给出任务："处理Batch 4-8"
+2. 拆解为子任务（每批100条）
+3. 批量触发子Agent（不等待）：
+   for task in tasks:
+       spawn_subagent(task)  # 立即返回
+4. 立即向女娲汇报：
+   "已触发{X}个子任务，检查点目录：checkpoints/"
+5. 盘古退出（工作完成）
+```
+
+---
+
+## 检查点规范
+
+### 检查点文件格式
+
+```json
+{
+  "task_id": "batch4_jiading_part1",
+  "batch_number": 4,
+  "batch_name": "嘉定区第一批",
+  "status": "completed",
+  "execution_time": "3分20秒",
+  "data_sources": ["上海本地宝"],
+  "output_files": ["batch4_jiading.json"],
+  "collected_data": {
+    "学校总数": 100
+  },
+  "next_task": null,
+  "timestamp": "2026-04-12T14:30:00"
+}
+```
+
+### 检查点字段说明
+
+| 字段 | 说明 |
+|------|------|
+| task_id | 任务唯一标识 |
+| batch_number | 批次号 |
+| status | 状态：completed/failed/pending |
+| execution_time | 执行耗时 |
+| output_files | 输出文件列表 |
+| next_task | 下一个任务ID（链式任务时用） |
+| timestamp | 完成时间戳 |
+
+---
+
+## 任务分配Token消耗预算
+
+| 环节 | Token消耗 | 说明 |
+|------|----------|------|
+| 子Agent单次执行 | 约1000-3000 | 读取参数+执行任务+写文件 |
+| 盘古批量触发 | 约500-1000 | 生成子任务+触发 |
+| 女娲检查进度 | 约200-500 | 读取检查点文件 |
+| **总消耗（10批）** | **约15000-25000** | 比阻塞模式节省50%+ |
+
+---
+
+## 使用场景
+
+### ✅ 适合消防队模式
+- 数据采集（多页/多区/多年份）
+- 批量处理（文件转换、数据清洗）
+- 并行分析（多维度同时分析）
+
+### ❌ 不适合消防队模式
+- 需要深度推理的单一任务
+- 强依赖顺序的链式任务
+- 需要实时交互的对话任务
+
+---
+
+## 示例：数据采集任务
+
+### 传统模式（慢）
+```
+女娲：采集16区学校数据
+→ 派盘古处理
+→ 盘古逐个区采集（阻塞等待每区完成）
+→ 返回汇总
+（耗时：16区 × 5分钟 = 80分钟）
+```
+
+### 消防队模式（快）
+```
+女娲：采集16区学校数据
+→ 拆解为16个子任务
+→ 盘古批量触发16个子Agent（立即返回）
+→ 女娲检查检查点进度
+→ 发现缺失重派
+→ 全部完成汇总
+（耗时：max(5分钟) + 检查时间 ≈ 10分钟）
+```
+
+---
+
+## 与图书馆记忆法结合
+
+```
+图书馆记忆法（存储） + 消防队模式（执行）
+        ↓                      ↓
+   项目配置存储            任务进度跟踪
+   按需加载记忆            异步并行执行
+```
+
+---
+
+---
+
+## 🔄 确认→固化→验证 闭环（盘古方法论）
+
+### 触发条件（任一满足即触发）
+- 用户说："确认"/"就这么定了"/"以后按这个来"
+- 讨论同一话题超过3轮
+- 涉及：配置变更 / 格式标准 / 筛选规则 / 自动化任务
+
+### 三步闭环
+
+**Phase 1: 确认（Confirmation）**
+- 明确变更内容
+- 识别影响范围
+- 创建检查点：`checkpoints/confirmation/{task-id}-impact.json`
+
+**Phase 2: 固化（Solidification）**
+- 更新执行配置（cron payload / 脚本参数）
+- 更新记忆文档（MEMORY.md + index.md + topics/）
+- 创建检查点：`checkpoints/confirmation/{task-id}-config.json`
+
+**Phase 3: 验证（Verification）**
+- 立即测试一次（手动触发或自动）
+- 检查输出是否符合预期
+- 创建检查点：`checkpoints/confirmation/{task-id}-verify.json`
+
+**Phase 4: 归档（Archive）**
+- 合并检查点为complete.json
+- 更新任务追踪文件
+- 在MEMORY.md标记 ✅
+
+### 快速自检清单
+
+每次确认配置/规则/格式时：
+
+- [ ] **执行配置**更新了吗？
+- [ ] **检查点**创建了吗？
+- [ ] **长期记忆**更新了吗？（MEMORY.md）
+- [ ] **技能索引**更新了吗？（index.md / topics/）
+- [ ] **验证测试**执行了吗？
+- [ ] **任务追踪**记录了吗？
+
+**如果任一没做，= 没有真正固化。**
+
+没有固化的确认 = 口头承诺
+没有验证的固化 = 自我安慰
+没有记忆的验证 = 下次再犯
+
+---
+
+## ⚠️ 重要性同步触发条件
+
+| 触发源 | 触发词/条件 |
+|--------|------------|
+| 用户反馈 | "太好了" / "解决了" / 明确认同 |
+| **Agent自己的语言** ⚠️ | "太好了" / "解决了" / "已完成" / "这个很重要" |
+| 内容类型 | 新概念/名单/分类体系/核心配置 |
+
+**触发后三步同步：**
+1. 更新 MEMORY.md（核心位置，摘要式）
+2. 更新 memory/index.md（关键词映射）
+3. 在 daily notes 标记⭐
+
+### ⚠️ 强制同步场景（不依赖触发词，做完即同步）
+
+以下场景**必须立即写入 MEMORY.md + index.md**，不需要等"确认"或"太好了"：
+
+| 场景 | 同步内容 | 历史教训 |
+|------|----------|----------|
+| **建立新的协作机制** | 机制是什么、通信方式、文件位置 | 2026-04-20 建留言机制但未同步，2026-04-21 全部遗忘 |
+| **新增/变更配置** | 配置项、位置、用途 | 配置只记地址不记用途 = 没记 |
+| **新增外部账号/服务** | 平台、用户名、用途 | - |
+| **修改了 AGENTS.md/SOUL.md 等规则文件** | 改了什么、为什么改 | - |
+| **建立了新的文件结构或目录** | 结构、用途、命名规则 | - |
+
+**执行标准：做完后立即执行同步，不等"收工"。**
+
+### 📁 检查点强制创建（硬约束）
+
+以下场景**必须创建检查点文件**，不创建 = 任务未完成：
+
+| 场景 | 检查点位置 | 文件名格式 |
+|------|-----------|-----------|
+| 建立新机制 | `checkpoints/memory/` | `YYYY-MM-DD-{机制名}.json` |
+| 新增关键配置 | `checkpoints/memory/` | `YYYY-MM-DD-{配置名}.json` |
+| 修改规则文件（AGENTS.md等） | `checkpoints/memory/` | `YYYY-MM-DD-rule-update.json` |
+
+**检查点内容必须包含：**
+```json
+{
+  "checkpoint_type": "mechanism_created | config_added | rule_updated",
+  "created_at": "ISO时间",
+  "description": "做了什么",
+  "files": { "涉及文件": "路径" },
+  "synced_to": { "MEMORY.md": true/false, "index.md": true/false },
+  "lesson_learned": "如果是因为遗忘才补的，写教训"
+}
+```
+
+**为什么必须创建检查点：**
+- 日志可能忘写，检查点文件是硬证据
+- 周期巡检查 `checkpoints/memory/` 就能发现未同步的内容
+- 检查点文件本身就是记忆的一部分
+
+---
+
+*消防队模式 | 短生命周期 + 异步调度 + 检查点驱动 + 任务闭环*
+*盘古方法论 v1.0 | 2026-04-14 固化*
+*日志周期SOP → 已移至 AGENTS.md 图书馆记忆法章节*
