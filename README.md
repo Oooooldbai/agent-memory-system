@@ -11,6 +11,7 @@
 | **图书馆记忆法** | LIBRARY-MEMORY-TEMPLATE.md | 存什么、怎么存、怎么找、日志怎么保鲜 |
 | **消防队模式** | FIREFIGHTER-MODE-TEMPLATE.md | 任务怎么拆、怎么并行、检查点怎么管 |
 | **任务闭环** | TASK-COMPLETION-WORKFLOW.md | 确认→固化→验证，变更怎么不丢 |
+| **自动检查** | AUTO-CHECKS.md | HEARTBEAT触发，不依赖"记得" |
 
 ## 核心原则
 
